@@ -23,7 +23,7 @@ html{
 
 body{
     font-family: 'lato', sans-serif;
-    /* overflow-x: hidden; */
+   
 }
 
 a{

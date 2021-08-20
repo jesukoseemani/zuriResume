@@ -43,7 +43,11 @@ const StyledRight = styled.div`
 flex: 1;
 display: flex;
 flex-direction: column;
-
+padding-right: 3rem;
+@media (max-width: 770px){
+      
+    padding-right: 1rem;
+         }
 h1{
     font-size: 2.8rem;
      font-family: 'Courier New', Courier, monospace;

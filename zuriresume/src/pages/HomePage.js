@@ -22,6 +22,11 @@ width: 100%;
 max-width: 120rem;
 border-radius: 1rem;
 margin: 0 auto;
+
+@media (max-width: 770px){
+      width: 770px;
+
+       }
 `
 
 export default homePage

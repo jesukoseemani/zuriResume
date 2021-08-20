@@ -67,6 +67,10 @@ flex-direction: column;
 /* align-items: center; */
 padding-left: 7rem;
 border-right: 1px solid gray;
+@media (max-width: 770px){
+      
+    padding-left: 2rem;
+       }
 h1{
     font-size: 2.8rem;
      font-family: 'Courier New', Courier, monospace;
