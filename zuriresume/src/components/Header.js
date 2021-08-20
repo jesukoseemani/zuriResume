@@ -85,6 +85,7 @@ const StyledHeaderEmpty = styled.div`
      h5{
      font-size: 2rem;
      margin-bottom: .5rem;
+     
      @media (max-width : 770px){
         font-size: 1rem;
      }
