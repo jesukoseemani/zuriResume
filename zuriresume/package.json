@@ -2,7 +2,6 @@
   "name": "zuriresume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jesukoseemani.github.io/zuriResume/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
@@ -20,7 +19,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
