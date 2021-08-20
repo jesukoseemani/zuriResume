@@ -76,11 +76,18 @@ const StyledHeaderEmpty = styled.div`
      font-size: 4rem;
      font-family: 'Courier New', Courier, monospace;
      color: #0000f4;
+
+     @media (max-width : 770px){
+        font-size: 2rem;
+     }
      }
 
      h5{
      font-size: 2rem;
      margin-bottom: .5rem;
+     @media (max-width : 770px){
+        font-size: 1rem;
+     }
      }
 
      p{
